@@ -1,6 +1,6 @@
 # INSTRUCTIONS
 
-step 1: extract zip
+step 1: extract zip \n
 2: install VTFcmd into the file location
 3: change the .ini file
 4: run the python file
